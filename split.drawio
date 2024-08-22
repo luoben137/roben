@@ -655,7 +655,7 @@
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-47" value="tcp client" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1305" y="471" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-48" value="{&quot;A1&quot;:&quot;connection_a&quot;,&lt;div&gt;&quot;A2&quot;:&quot;connection_b&quot;}&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-48" value="{&quot;edge_id1&quot;:&quot;connection_a&quot;,&lt;div&gt;&quot;edge_id2&quot;:&quot;connection_b&quot;}&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="493" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-49" value="get hardware_id&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

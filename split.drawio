@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="PzokZFdOADGy7_pB55ky">
-    <mxGraphModel dx="1728" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2004" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="300" width="140" height="600" as="geometry" />
-        </mxCell>
         <mxCell id="i0qUSSeW1kzxF6su9X11-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1195" y="2435" width="525" height="505" as="geometry" />
         </mxCell>
@@ -589,9 +586,6 @@
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-42" value="get connection by edge name" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="565" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Proxy(nginx) when migrate to cloud&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="815" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-46" value="tcp server: 18890" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1090" y="472" width="60" height="30" as="geometry" />
         </mxCell>
@@ -688,7 +682,7 @@
         <mxCell id="QuqT4l6kd2xy0rgmF0ry-56" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;body length&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1245" y="1260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u-KjC9JfXzeToUfx2-mO-1" value="http server: 18888" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u-KjC9JfXzeToUfx2-mO-1" value="http server: 18888" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1544.5" y="560" width="77" height="30" as="geometry" />
         </mxCell>
       </root>

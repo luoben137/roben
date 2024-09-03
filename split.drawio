@@ -595,7 +595,7 @@
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-48" value="{&quot;edge_id1&quot;:&quot;connection_a&quot;,&lt;div&gt;&quot;edge_id2&quot;:&quot;connection_b&quot;}&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="493" y="690" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-49" value="get edge_id from hardware_id&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-49" value="md5(hardware_id)&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1467.5" y="690" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.204;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="gKqpf_e9eDg5dyG-ftxb-4" edge="1">
@@ -728,6 +728,9 @@
         </mxCell>
         <mxCell id="h1buFeTaj52_PI6_supK-4" value="django wsgi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1788.5" y="473" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h1buFeTaj52_PI6_supK-6" value="edge_id" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="610" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -705,7 +705,7 @@
         <mxCell id="OFq6Y2Erg7-jgqifMxko-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" parent="1" vertex="1">
           <mxGeometry x="577" y="1115" width="960" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OFq6Y2Erg7-jgqifMxko-16" value="&lt;b&gt;checksum&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OFq6Y2Erg7-jgqifMxko-16" value="&lt;b&gt;hash&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h1buFeTaj52_PI6_supK-1" value="django wsgi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">

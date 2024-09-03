@@ -553,9 +553,6 @@
             <mxPoint x="1880" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-25" value="config in db" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1808.5" y="595" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-31" value="production type" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1902" y="595" width="60" height="30" as="geometry" />
         </mxCell>

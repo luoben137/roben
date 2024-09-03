@@ -580,7 +580,7 @@
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-39" value="dict to store edge_name and connetcion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="463" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-41" value="add connection to dict" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-41" value="add tcp connection to dict" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-42" value="get connection by edge name" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

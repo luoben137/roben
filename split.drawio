@@ -532,7 +532,7 @@
             <mxPoint x="927.069" y="546.6800000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-20" value="module_name&lt;div&gt;version_id&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-20" value="production type" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="946" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.681;exitY=0;exitDx=0;exitDy=0;entryX=0.482;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="gKqpf_e9eDg5dyG-ftxb-11" target="gKqpf_e9eDg5dyG-ftxb-3" edge="1">
@@ -577,13 +577,13 @@
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-38" value="deploy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1200" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-39" value="dict to store edge_name and connetcion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-39" value="dict to store edge_id and tcp connetcion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="463" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-41" value="add tcp connection to dict" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="565" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-42" value="get tcp connection by edge name" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-42" value="get tcp connection by edge id" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-46" value="tcp server: 18890" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -627,9 +627,6 @@
             <mxPoint x="1120" y="610" as="sourcePoint" />
             <mxPoint x="1170" y="560" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UAvYdJziN61d-JV06YOF-4" value="optix-config&lt;div&gt;startx-config&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="963" y="635" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QuqT4l6kd2xy0rgmF0ry-39" value="Header" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="577" y="1135" width="1070" height="105" as="geometry" />

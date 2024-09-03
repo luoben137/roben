@@ -705,7 +705,7 @@
         <mxCell id="QuqT4l6kd2xy0rgmF0ry-55" value="152 bytes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1087" y="1260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QuqT4l6kd2xy0rgmF0ry-56" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;body length&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QuqT4l6kd2xy0rgmF0ry-56" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;payload length&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1720" y="1260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u-KjC9JfXzeToUfx2-mO-1" value="http server: 18888" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

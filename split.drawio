@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eun_naLzkzj22G-MwU22-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="1605" width="123" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="eun_naLzkzj22G-MwU22-15" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1028.81" y="1580" width="255" height="170" as="geometry" />
         </mxCell>
@@ -704,6 +707,12 @@
         </mxCell>
         <mxCell id="eun_naLzkzj22G-MwU22-18" value="edge 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1650.81" y="2115" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eun_naLzkzj22G-MwU22-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eun_naLzkzj22G-MwU22-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="743.5" y="1635" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

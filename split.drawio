@@ -485,7 +485,7 @@
           <mxGeometry x="1421" y="460" width="573" height="85" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-5" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;register(edge_id, edge_name)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;login(edge_id)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;fontColor=default;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="471" width="120" height="30" as="geometry" />
+          <mxGeometry x="1170" y="450" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-8" value="model,threshold,post-process" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fontColor=default;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="627" y="735" width="170" height="60" as="geometry" />
@@ -575,7 +575,7 @@
           <mxGeometry x="1868.5" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-38" value="deploy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="1190" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-39" value="dict to store edge_id and tcp connetcion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="463" y="615" width="120" height="60" as="geometry" />
@@ -587,10 +587,7 @@
           <mxGeometry x="530" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-46" value="tcp server: 18890" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="472" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-47" value="tcp client" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1305" y="471" width="60" height="30" as="geometry" />
+          <mxGeometry x="960" y="472" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-48" value="{&quot;edge_id1&quot;:&quot;connection_a&quot;,&lt;div&gt;&quot;edge_id2&quot;:&quot;connection_b&quot;}&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="493" y="690" width="60" height="30" as="geometry" />

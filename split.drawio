@@ -490,7 +490,7 @@
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-8" value="model,threshold,post-process" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fontColor=default;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="627" y="735" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-9" value="model,threshold,post-process,optix-config" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fontColor=default;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-9" value="model,threshold,post-process" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fontColor=default;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="1634" y="690" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.795;exitY=1.057;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -556,7 +556,7 @@
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-25" value="config in db" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1808.5" y="595" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gKqpf_e9eDg5dyG-ftxb-31" value="module_name&lt;div&gt;version_id&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gKqpf_e9eDg5dyG-ftxb-31" value="production type" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1902" y="595" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gKqpf_e9eDg5dyG-ftxb-32" value="config in file" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

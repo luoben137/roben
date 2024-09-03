@@ -708,11 +708,14 @@
         <mxCell id="eun_naLzkzj22G-MwU22-18" value="edge 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1650.81" y="2115" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eun_naLzkzj22G-MwU22-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="1920" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="eun_naLzkzj22G-MwU22-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="743.5" y="1635" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eun_naLzkzj22G-MwU22-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.098;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eun_naLzkzj22G-MwU22-21" target="eun_naLzkzj22G-MwU22-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="1970" as="sourcePoint" />
+            <mxPoint x="1350" y="1920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -155,7 +155,7 @@
           <mxGeometry x="2400" y="1663.25" width="211" height="80.75" as="geometry" />
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-18" value="save product type edge mapping when deploy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1880.5" y="1852.5" width="189.5" height="30" as="geometry" />
+          <mxGeometry x="1850" y="1777" width="189.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-19" value="grpc server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1519" y="1673" width="120" height="60" as="geometry" />

@@ -166,7 +166,7 @@
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-22" value="twisted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2570" y="1669.25" width="200" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="xq7-DkZQs1Acq1c8sGdA-18" value="product type -&amp;gt; edge mapping" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xq7-DkZQs1Acq1c8sGdA-18" value="save product type -&amp;gt; edge mapping when deploy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1880.5" y="1852.5" width="189.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-19" value="grpc server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">

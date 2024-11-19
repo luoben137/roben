@@ -106,10 +106,10 @@
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-6" value="get cc from central" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1660.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xq7-DkZQs1Acq1c8sGdA-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.01;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ArdMYgsBvblEmgynCt6V-146" edge="1">
+        <mxCell id="xq7-DkZQs1Acq1c8sGdA-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1517.9899999999998" y="1850.5149999999999" as="sourcePoint" />
-            <mxPoint x="1450" y="1740" as="targetPoint" />
+            <mxPoint x="1520" y="1855" as="sourcePoint" />
+            <mxPoint x="1230" y="1855.0049999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-8" value="get pruduct type from cortex" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-18" value="save product type edge mapping when deploy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="1777" width="189.5" height="30" as="geometry" />
+          <mxGeometry x="1850" y="1773" width="189.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-19" value="grpc server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="1519" y="1673" width="120" height="60" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="2300" y="1717.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y02z2JQXuIzH-TiVJOg5-4" value="save cc to db" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1766.5" y="1767" width="60" height="30" as="geometry" />
+          <mxGeometry x="1785.5" y="1773" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y02z2JQXuIzH-TiVJOg5-5" value="grpc client" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1519" y="1840" width="60" height="30" as="geometry" />

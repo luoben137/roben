@@ -172,6 +172,18 @@
         <mxCell id="y02z2JQXuIzH-TiVJOg5-6" value="grpc client" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1690.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y02z2JQXuIzH-TiVJOg5-7" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1656" y="1840" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y02z2JQXuIzH-TiVJOg5-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;exitX=0.277;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ArdMYgsBvblEmgynCt6V-99" target="y02z2JQXuIzH-TiVJOg5-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="1750" as="sourcePoint" />
+            <mxPoint x="1720" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y02z2JQXuIzH-TiVJOg5-9" value="save capture image to disk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1767" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

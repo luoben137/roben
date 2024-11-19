@@ -175,12 +175,6 @@
             <mxPoint x="2530" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xq7-DkZQs1Acq1c8sGdA-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.028;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.03;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ArdMYgsBvblEmgynCt6V-146" target="ArdMYgsBvblEmgynCt6V-173">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="1790" as="sourcePoint" />
-            <mxPoint x="1450" y="1740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-6" value="get cc from central" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1730" width="60" height="30" as="geometry" />
         </mxCell>
@@ -191,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-8" value="get pruduct type from cortex" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="1643" width="60" height="30" as="geometry" />
+          <mxGeometry x="1330" y="1852.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xq7-DkZQs1Acq1c8sGdA-9" value="create view" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="1597" width="60" height="30" as="geometry" />

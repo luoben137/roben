@@ -23,7 +23,7 @@
           <mxGeometry x="2200" y="1442.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ArdMYgsBvblEmgynCt6V-123" value="release product type" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2300" y="1657.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="2300" y="1658.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ArdMYgsBvblEmgynCt6V-127" value="tcp server: 18890" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2070" y="1672" width="60" height="30" as="geometry" />
